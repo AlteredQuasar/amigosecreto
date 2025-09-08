@@ -6,6 +6,7 @@
 <p>Bienvenidos al challenge del amigo secreto.
 Este proyecto fue creado para el curso <b>One Next Education</b> de <b><a href="https://www.aluracursos.com/">Alura Latam.</a></b>
 Se trata de un sorteador simple para seleccionar un nombre al azar de una lista. Útil para sorteos, dinámicas o asignaciones aleatorias.</p>
+<p>Si no quieres descargar el proyecto, tambien puedes acceder desde <b><a href="https://alteredquasar.github.io/amigosecreto.git.io/">Aqui</b></p>
 <h2>Instalacion</h2>
 <li>Abre Git en tu computadora y selecciona tu escritorio con el comando <b>cd.</b></li>
 <li>Copia el link de este repositorio y en git escribe el comando <b>git clone "link del repositorio" </b>(sin las comillas).</li>
@@ -27,4 +28,5 @@ Se trata de un sorteador simple para seleccionar un nombre al azar de una lista.
 volviendo a clickear el boton.</p>
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5c1967ca-ac94-472c-950a-00d165fd223a" />
 <p>Gracias por leer. Espero te diviertas sorteando el nombre de tus amigos con este sencillo script.</p>
+
 
