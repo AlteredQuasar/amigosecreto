@@ -8,7 +8,7 @@ Este proyecto fue creado para el curso <b>One Next Education</b> de <b><a href="
 Se trata de un sorteador simple para seleccionar un nombre al azar de una lista. Útil para sorteos, dinámicas o asignaciones aleatorias.</p>
 <p>Si no quieres descargar el proyecto, también puedes acceder desde el botón inferior a este texto. </p>
   
-[![Open in GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://alteredquasar.github.io/amigosecreto.git.io/)
+[![Open in GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://alteredquasar.github.io/amigosecreto/)
 <h2>Instalación</h2>
 <li>Abre Git en tu computadora y selecciona tu escritorio con el comando </li> 
   
