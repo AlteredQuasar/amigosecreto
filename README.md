@@ -8,8 +8,14 @@ Este proyecto fue creado para el curso <b>One Next Education</b> de <b><a href="
 Se trata de un sorteador simple para seleccionar un nombre al azar de una lista. Útil para sorteos, dinámicas o asignaciones aleatorias.</p>
 <p>Si no quieres descargar el proyecto, tambien puedes acceder desde <b><a href="https://alteredquasar.github.io/amigosecreto.git.io/">Aqui</b></p>
 <h2>Instalacion</h2>
-<li>Abre Git en tu computadora y selecciona tu escritorio con el comando <b>cd.</b></li>
-<li>Copia el link de este repositorio y en git escribe el comando <b>git clone "link del repositorio" </b>(sin las comillas).</li>
+<li>Abre Git en tu computadora y selecciona tu escritorio con el comando </li> 
+  
+  `cd`
+<li>Copia el link de este repositorio y en git escribe el comando </li>
+  
+```
+git clone (https://github.com/AlteredQuasar/amigosecreto.git.io) 
+```
 <li>Abre el proyecto que clonaste <b>Visual Studio Code</b> o en tu editor de codigo preferido.</li>
 <li>Ejecuta el archivo <b>index.html</b> (Si estas usando Visual Studio Code puedes ejecutarlo con "<b>Live Server</b>" si tienes la extension instalada.)</li>
 <li>Ya puedes empezar a sortear nombres!</li>
