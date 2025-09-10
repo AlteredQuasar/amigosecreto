@@ -18,7 +18,7 @@ Se trata de un sorteador simple para seleccionar un nombre al azar de una lista.
 ```
 git clone (https://github.com/AlteredQuasar/amigosecreto.git.io) 
 ```
-<li>Abre el proyecto que clonaste <b>Visual Studio Code</b> o en tu editor de codigo preferido.</li>
+<li>Abre el proyecto que clonaste en <b>Visual Studio Code</b> o en tu editor de codigo preferido.</li>
 <li>Ejecuta el archivo <b>index.html</b> (Si estas usando Visual Studio Code puedes ejecutarlo con "<b>Live Server</b>" si tienes la extensión instalada.)</li>
 <li>Ya puedes empezar a sortear nombres!</li>
 <h2>¿Como funciona?</h2>
