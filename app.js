@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
     //variable lista de amigos
     let amigos = [];
     //permite ingresar los nombres del input con la tecla enter
@@ -23,6 +23,8 @@
             asignarTextoElemento('resultado', 'Ingresa un nombre valido.') ;
             resultado.style.color = 'red'; 
     }
+    
+      
     //limpiar la caja en caso de haber ingresado un nombre repetido
     else if (amigos.includes(nombreAmigo)) {
         asignarTextoElemento('resultado', 'Ese nombre ya fue ingresado.') ;
@@ -62,6 +64,9 @@
                 //cambia a color rojo el mensaje
                 resultado.style.color = 'red'; 
         }
+        else if (amigos < 2) {
+          asignarTextoElemento('resultado', 'Ingrese por lo menos 2 participantes.');
+          }
             else {
                 document.getElementById('resultado').textContent = "El amigo sorteado es: " + amigoSorteado;
                 resultado.style.color = 'limegreen'; 
