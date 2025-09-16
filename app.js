@@ -64,8 +64,9 @@
                 //cambia a color rojo el mensaje
                 resultado.style.color = 'red'; 
         }
-        else if (amigos < 2) {
+        else if (amigos.length < 2) {
           asignarTextoElemento('resultado', 'Ingrese por lo menos 2 participantes.');
+          resultado.style.color = 'red';
           }
             else {
                 document.getElementById('resultado').textContent = "El amigo sorteado es: " + amigoSorteado;
