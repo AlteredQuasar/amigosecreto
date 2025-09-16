@@ -78,4 +78,3 @@
         document.getElementById('resultado').textContent = "";
     }
     
-=======
